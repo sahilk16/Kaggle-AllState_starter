@@ -2,6 +2,7 @@
 
 This is a Python Notebook for the competition of AllState which is hosted on Kaggle. You can downlaod the data for the notebook from Kaggle's website.
 
+Problem Statement
 We are given about 132 variables which are unknown to us and are told to predict the loss for the particular Id. All the variables given are 
 completely anonymous and we dont have any idea as to what a varible in the datset means.
 
