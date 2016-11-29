@@ -6,7 +6,7 @@ This is a Python Notebook for the competition of AllState which is hosted on Kag
 We are given about 132 variables which are unknown to us and are told to predict the loss for the particular Id. All the variables given are 
 completely anonymous and we dont have any idea as to what a varible in the datset means.
 
-In this notebook, I have explored the dataset separately on Numerical variables and Categorical variables and applied a simple XgBoost on the data to get a satisfactory Private Board result. 
+In this notebook, I have explored the dataset separately on Numerical variables and Categorical variables and applied a simple XgBoost on the data to get a satisfactory Leaderboard Board result. 
 
 # further work
 You can further use many techniques and other algorithms to get a better score and can also try to use the ensembling technique because this 
