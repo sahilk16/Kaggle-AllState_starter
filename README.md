@@ -9,6 +9,6 @@ completely anonymous and we dont have any idea as to what a varible in the datse
 In this notebook, I have explored the dataset separately on Numerical variables and Categorical variables and applied a simple XgBoost on the data to get a satisfactory Leaderboard Board result. 
 
 # further work
-You can further use many techniques and other algorithms to get a better score and can also try to use the ensembling technique because this 
+You can further use many techniques and other algorithms to get a better score and can also try to use the stacking technique because this 
 challenge is similar to OTTO challenge on Kaggle where the winner's approach was a 2 stage stacker.
 The link for stacking approach : https://www.kaggle.com/c/otto-group-product-classification-challenge/forums/t/14335/1st-place-winner-solution-gilberto-titericz-stanislav-semenov 
